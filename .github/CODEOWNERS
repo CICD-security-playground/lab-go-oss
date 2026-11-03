@@ -1,0 +1,7 @@
+# Default ownership for application code and repository content.
+*                   @CICD-security-playground/developers
+
+# Security-sensitive CI/CD and scanning surfaces.
+/.github/           @CICD-security-playground/product-security
+/scripts/           @CICD-security-playground/product-security
+/Dockerfile         @CICD-security-playground/platform-engineering
